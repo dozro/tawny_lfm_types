@@ -1,5 +1,7 @@
 codeberg.org/dozrye/golang_apierror v0.0.2 h1:Nn3+HBK0vYa/9yWWjFa3oXosdzGQ/pac49EcIXiaCVs=
 codeberg.org/dozrye/golang_apierror v0.0.2/go.mod h1:7FJxLTrzgTcmbxJt3B8r6dJaG+ML6eB64QdKtYW4GK8=
+codeberg.org/dozrye/golang_apierror v0.1.0 h1:rOx29I72KnLQI+uUxUFuxyI8tvfr73nlCEQNyp36EEI=
+codeberg.org/dozrye/golang_apierror v0.1.0/go.mod h1:4kSkK9uKY3FqkX1l+P54heEI2yKOUBvwyXNtoSUyN7s=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -14,11 +16,13 @@ gitlab.com/rye_tawny/api_commons v0.0.1 h1:8BXE3dGwkGVjE2VybyEtfyVpoMXXDcA1BopUL
 gitlab.com/rye_tawny/api_commons v0.0.1/go.mod h1:puXXCJ7SlKqP7+F/kTSI80kapx4591jliOW2h3+dCeQ=
 gitlab.com/rye_tawny/api_commons v0.0.2 h1:ISATN4fa4cKLn6F3Lh6+G0E4cPxYVH/3nGJQwj7Tnks=
 gitlab.com/rye_tawny/api_commons v0.0.2/go.mod h1:puXXCJ7SlKqP7+F/kTSI80kapx4591jliOW2h3+dCeQ=
+gitlab.com/rye_tawny/api_commons v0.0.3 h1:XK663gC6ytqYej2OtwTxn4iSzQ/sjHXe2EIqRNOc+2g=
 gitlab.com/rye_tawny/api_commons v0.0.3/go.mod h1:puXXCJ7SlKqP7+F/kTSI80kapx4591jliOW2h3+dCeQ=
 gitlab.com/rye_tawny/musicbrainz/api v0.0.1 h1:YwWJSIwf9WAtXEoE4olqsnyUrRIdx7jEa3PBpvE3IK4=
 gitlab.com/rye_tawny/musicbrainz/api v0.0.1/go.mod h1:pPamd6kBkn8q+vLA2fSzmUr5gG3yLuF5gPEakYqmmWo=
 gitlab.com/rye_tawny/musicbrainz/api v0.0.3 h1:wqcgzI0awibLtk/g+drZjJtM/coKAQeEwFHWsbAGy0w=
 gitlab.com/rye_tawny/musicbrainz/api v0.0.3/go.mod h1:2w0La/KcG7CsBxmTJp0TSsbIDW3a0dq8Xj8GNC1OcEU=
+gitlab.com/rye_tawny/musicbrainz/api v0.0.4 h1:LAbIs0bfEeVoG4bbW4Y9fuvm+SxyidGeGBlgBj4w4zg=
 gitlab.com/rye_tawny/musicbrainz/api v0.0.4/go.mod h1:k5Wpp4mXIPTaRNvbhJMGiR55OQcdAxqtTJbtrGb6sRQ=
 gitlab.com/rye_tawny/musicbrainz/types v0.0.2 h1:+zsDUXm7/9vNYIfVTCAD8mObEvK+0Le7DpKalomZiVQ=
 gitlab.com/rye_tawny/musicbrainz/types v0.0.2/go.mod h1:OVIjRlOEimDABE6D2T4jffNGdqW6004elazdhhjg2Lw=
