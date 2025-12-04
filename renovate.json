@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "commitBody": "[renovate] Bumps the dependency {{depName}} from {{currentVersion}} to {{newVersion}}.\n\nThis update ensures we are running on the latest stable version and includes the following notable changes:\n{{{changelogUrl}}}\n\n{{{footer}}}",
+  "commitBody": "[renovate] Bumps the dependency {{depName}} from {{currentVersion}} to {{newVersion}}.\n\nThis update ensures we are running on the latest stable version and includes the following notable changes:\n{{{changelogUrl}}}",
   "lockFileMaintenance": {
       "enabled": true,
       "recreateWhen": "always",
