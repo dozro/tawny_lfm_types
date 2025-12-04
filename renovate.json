@@ -1,3 +1,13 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "commitBody": "[renovate] Bumps the dependency {{depName}} from {{currentVersion}} to {{newVersion}}.\n\nThis update ensures we are running on the latest stable version and includes the following notable changes:\n{{{changelogUrl}}}\n\n{{{footer}}}",
+  "lockFileMaintenance": {
+      "enabled": true,
+      "recreateWhen": "always",
+      "rebaseStalePrs": true,
+      "branchTopic": "lock-file-maintenance",
+      "commitMessageAction": "[renovate] Lock file maintenance",
+      "schedule": ["* 8-17 * * 1-5"],
+      "prBodyDefinitions": {"Change": "All locks refreshed"}
+  }
 }
